@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm Kshitij</h1>
 <h2 align="center">A Self taught frontend developer from India.</h2>
-<h3 align="center"> I can Speak Hindi, English & Japanese(N5).</h3>
+<h3 align="center"> I can Speak Hindi, English & Japanese(N4).</h3>
 
 <br>
 
-- 🌱 I’m currently learning Backend and API.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about HTML, CSS & JS.
 - 😄 Pronouns: He/ His
 
