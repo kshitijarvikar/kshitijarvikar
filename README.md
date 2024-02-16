@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Kshitij</h1>
-<h2 align="center">A Self taught frontend developer from India.</h2>
+<h2 align="center">Frontend developer from India.</h2>
 <h3 align="center"> I can Speak Hindi, English & Japanese(N4).</h3>
 
 <br>
